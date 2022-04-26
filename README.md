@@ -9,7 +9,7 @@ This repository includes:
 * a Houdini hipnc file (.hipnc) which includes the virtual environment and automated python script to render an animation using Houdini's native renderer, Mantra (free)
 * an optional Houdini hiplc file (.hiplc) while includes the virtual environment and automated python script to render the same animation using third-party renderer, Redshift (requires paid license)
 * a video tutorial with instructions for running the automated python script within the Houdini interface
-* example files of animation videos output from the automated pipeline
+* example animation videos output from the automated pipeline
 
 
 ## Requirements
