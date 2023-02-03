@@ -23,7 +23,7 @@ This repository includes:
 * To open the **optional** Houdini hiplc file (.hiplc), you must have installed a paid license for Houdini, as well as a paid license for Redshift:
   * Install Houdini Indie version 19.0 or newer from https://www.sidefx.com/buy/#houdini-indie (paid license)
   * Install Redshift version 3.0.66 or newer from https://www.maxon.net/en/buy (paid license)
-  * Refer to the Redshift documentation on how to configure the Redshift plugin for Houdini https://docs.redshift3d.com/display/RSDOCS/Houdini+Plugin+Configuration?product=houdini#HoudiniPluginConfiguration-Pluginreleasedversions
+  * Refer to the Redshift documentation on how to configure the Redshift plugin for Houdini https://help.maxon.net/r3d/houdini/en-us/Content/html/Houdini+Plugin+Configuration.html
   * Note: Redshift is a GPU-accelerated renderer with the following minimum GPU requirements: https://www.maxon.net/en/requirements/redshift-requirements
 
 
